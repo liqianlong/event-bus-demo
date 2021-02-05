@@ -42,12 +42,6 @@
         </dependency>
 
         <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>23.0</version>
-        </dependency>
-
-        <dependency>
             <groupId>io.projectreactor</groupId>
             <artifactId>reactor-core</artifactId>
             <version>2.0.8.RELEASE</version>
@@ -70,7 +64,6 @@
             <artifactId>guava</artifactId>
             <version>28.2-jre</version>
         </dependency>
-
 
     </dependencies>
 
